@@ -1,0 +1,3 @@
+/home/joan/Descargas/Self driving car Nanodegree/Projects/10. CarND-MPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/joan/Descargas/Self driving car Nanodegree/Projects/10. CarND-MPC/cmake-build-debug/CMakeFiles/mpc.dir
+/home/joan/Descargas/Self driving car Nanodegree/Projects/10. CarND-MPC/cmake-build-debug/CMakeFiles/edit_cache.dir
